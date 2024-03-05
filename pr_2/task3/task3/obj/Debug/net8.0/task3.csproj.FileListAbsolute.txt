@@ -1,0 +1,14 @@
+D:\Visual Studia\C#\Dut\pr_1\task3\task3\bin\Debug\net8.0\task3.exe
+D:\Visual Studia\C#\Dut\pr_1\task3\task3\bin\Debug\net8.0\task3.deps.json
+D:\Visual Studia\C#\Dut\pr_1\task3\task3\bin\Debug\net8.0\task3.runtimeconfig.json
+D:\Visual Studia\C#\Dut\pr_1\task3\task3\bin\Debug\net8.0\task3.dll
+D:\Visual Studia\C#\Dut\pr_1\task3\task3\bin\Debug\net8.0\task3.pdb
+D:\Visual Studia\C#\Dut\pr_1\task3\task3\obj\Debug\net8.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studia\C#\Dut\pr_1\task3\task3\obj\Debug\net8.0\task3.AssemblyInfoInputs.cache
+D:\Visual Studia\C#\Dut\pr_1\task3\task3\obj\Debug\net8.0\task3.AssemblyInfo.cs
+D:\Visual Studia\C#\Dut\pr_1\task3\task3\obj\Debug\net8.0\task3.csproj.CoreCompileInputs.cache
+D:\Visual Studia\C#\Dut\pr_1\task3\task3\obj\Debug\net8.0\task3.dll
+D:\Visual Studia\C#\Dut\pr_1\task3\task3\obj\Debug\net8.0\refint\task3.dll
+D:\Visual Studia\C#\Dut\pr_1\task3\task3\obj\Debug\net8.0\task3.pdb
+D:\Visual Studia\C#\Dut\pr_1\task3\task3\obj\Debug\net8.0\task3.genruntimeconfig.cache
+D:\Visual Studia\C#\Dut\pr_1\task3\task3\obj\Debug\net8.0\ref\task3.dll

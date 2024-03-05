@@ -1,0 +1,14 @@
+D:\Visual Studia\C#\Dut\pr_1\task2\task2\bin\Debug\net8.0\task2.exe
+D:\Visual Studia\C#\Dut\pr_1\task2\task2\bin\Debug\net8.0\task2.deps.json
+D:\Visual Studia\C#\Dut\pr_1\task2\task2\bin\Debug\net8.0\task2.runtimeconfig.json
+D:\Visual Studia\C#\Dut\pr_1\task2\task2\bin\Debug\net8.0\task2.dll
+D:\Visual Studia\C#\Dut\pr_1\task2\task2\bin\Debug\net8.0\task2.pdb
+D:\Visual Studia\C#\Dut\pr_1\task2\task2\obj\Debug\net8.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studia\C#\Dut\pr_1\task2\task2\obj\Debug\net8.0\task2.AssemblyInfoInputs.cache
+D:\Visual Studia\C#\Dut\pr_1\task2\task2\obj\Debug\net8.0\task2.AssemblyInfo.cs
+D:\Visual Studia\C#\Dut\pr_1\task2\task2\obj\Debug\net8.0\task2.csproj.CoreCompileInputs.cache
+D:\Visual Studia\C#\Dut\pr_1\task2\task2\obj\Debug\net8.0\task2.dll
+D:\Visual Studia\C#\Dut\pr_1\task2\task2\obj\Debug\net8.0\refint\task2.dll
+D:\Visual Studia\C#\Dut\pr_1\task2\task2\obj\Debug\net8.0\task2.pdb
+D:\Visual Studia\C#\Dut\pr_1\task2\task2\obj\Debug\net8.0\task2.genruntimeconfig.cache
+D:\Visual Studia\C#\Dut\pr_1\task2\task2\obj\Debug\net8.0\ref\task2.dll
